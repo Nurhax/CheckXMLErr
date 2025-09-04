@@ -5,9 +5,9 @@ import copy
 from collections import defaultdict
 
 # === PATH SETUP ===
-excel_path = r'C:\KP\Files\PLNSHIZ\Summary_IFS_Points.xlsx'
-xml_folder = r'C:\KP\Files\CheckErr\imported_file'
-output_xml = r'C:\KP\Files\PLNSHIZ\extracted_IfsPoints.xml'
+excel_path = r''
+xml_folder = r''
+output_xml = r''
 
 # === BACA EXCEL ===
 if not os.path.exists(excel_path):
