@@ -4,7 +4,7 @@ import json
 from collections import defaultdict
 
 # Ganti dengan path ke file Excel kamu
-excel_path = r'C:\KP\Files\PLNSHIZ\Summary_IFS_Points.xlsx'
+excel_path = r''
 
 # Cek file
 if not os.path.exists(excel_path):
